@@ -1,4 +1,4 @@
-# Maze_Solver_Project Description:
+# Maze Solver Project Description:
 The Maze Path Solver utilizes a popular algorithm called Depth-First Search (DFS) to explore and find the optimal path through the maze. DFS is an algorithm for traversing or searching tree or graph data structures. In the context of maze solving, DFS explores the maze by continuously moving forward until it reaches a dead end, then it backtracks and explores another path.
 
 The project consists of a Java class that takes a maze as input and outputs the shortest path from the starting point to the ending point. The maze is represented as a 2D grid, where each cell can be either a wall or an empty space.
