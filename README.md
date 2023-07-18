@@ -1,5 +1,4 @@
 # Maze_Solver_Project:
-
 The Maze Path Solver is a Java project that aims to find the shortest possible path between a starting and ending point in a 2D grid maze.
 
 # Description:
